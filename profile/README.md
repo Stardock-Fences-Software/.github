@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaoHKyAwcbFN_KtTrg9RSpAbouhmKi6C9rA&s" width="1080"/>
+  <img src="https://external-preview.redd.it/XXv87dzkOZvXlmTYWtEHV7ae48HEvD9GPz9EJD_QtpE.jpg?width=1080&crop=smart&auto=webp&s=cdfc27cae5862e3078d1ff2cfc7ec416e8dd3146" width="1080"/>
 </div>
 
 ## 🖌️ Overview  
